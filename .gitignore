@@ -1,0 +1,8 @@
+/logs
+/node_modules
+
+config.js
+.DS_Store
+meta.json
+NOTES
+npm-debug.log

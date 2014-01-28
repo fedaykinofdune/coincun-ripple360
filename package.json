@@ -1,0 +1,27 @@
+{
+    "name": "ripple360",
+    "version": "14.2.1",
+    "description": "Ripple Value Gaming Demos",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/houseofsdot/coincun-ripple360.git"
+    },
+    "keywords": [
+        "ripple",
+        "coincun",
+        "value gaming"
+    ],
+    "author": "House of SDOT",
+    "license": "MIT",
+    "dependencies": {
+        "colors": ">=0.6.2",
+        "express": ">=3.4.8",
+        "socket.io": ">=0.9.16",
+        "winston": ">=0.7.2",
+        "ws": ">=0.4.31"
+    }
+}
